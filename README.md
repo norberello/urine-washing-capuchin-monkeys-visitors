@@ -1,7 +1,7 @@
 ## Urine washing behaviour in capuchin monkeys (<i>Sapajus sp. </i>)
 
 <p align="center">
-<img src="https://www.birdsofeden.co.za/img.php?image=https://www.monkeyland.co.za/userfiles/images/Monkeyland-2020/WhatsApp-Image-2020-08-14-at-12.07.44.jpeg " width="50%" alt="" class="center" align="middle" alt="https://www.birdsofeden.co.za">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc1.staticflickr.com%2F6%2F5496%2F9693824565_b3602e6670_n.jpg&f=1&nofb=1" width="50%" class="center" align="middle" alt="https://www.birdsofeden.co.za">
 </center>
 <p> 
 
