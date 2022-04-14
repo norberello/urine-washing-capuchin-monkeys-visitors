@@ -1,6 +1,10 @@
 ## Urine washing behaviour in capuchin monkeys (<i>Sapajus sp. </i>)
 
- 
+<p align="center">
+<img src="https://www.birdsofeden.co.za/img.php?image=https://www.monkeyland.co.za/userfiles/images/Monkeyland-2020/WhatsApp-Image-2020-08-14-at-12.07.44.jpeg " width="50%" alt="" class="center" align="middle" alt="https://www.birdsofeden.co.za">
+</center>
+<p> 
+
 
 Replicating <a href="https://github.com/norberello/urine-washing-capuchin-monkeys-visitors/blob/main/urine%20washing%20capuchin%20monkeys%20script.ipynb"> analyses  </a> made in the study:
 
