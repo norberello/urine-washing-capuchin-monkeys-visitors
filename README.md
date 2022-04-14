@@ -1,4 +1,8 @@
-## Replicating analyses made in the study:
+## Urine washing behaviour in capuchin monkeys (<i>Sapajus sp. </i>)
+
+ 
+
+Replicating <a href="https://github.com/norberello/urine-washing-capuchin-monkeys-visitors/blob/main/urine%20washing%20capuchin%20monkeys%20script.ipynb"> analyses  </a> made in the study:
 
 Reyes, P. D., Baldovino, M. C., &amp; Aguiar, L. M. (2022). Urine washing in urban robust capuchin monkeys (<i>Sapajus sp. </i>): The relation with visitors. American Journal of Primatology. https://doi.org/10.1002/ajp.23381 
 
@@ -9,3 +13,8 @@ Reyes, P. D., Baldovino, M. C., &amp; Aguiar, L. M. (2022). Urine washing in urb
 **RESEARCH HIGHLIGHT**
 
 > Urine washing (UW) observed in urban robust capuchins is positively associated with the number of people observed inside the forest, increasing the scope of the flexibility of UW by including people as influencers of the display of this behavior in capuchins.**
+
+<p align="center">
+<img src="main figure.png" width="50%" alt="" class="center" align="middle" alt="regression figure with poisson fitted line and CI">
+</center>
+<p> 
